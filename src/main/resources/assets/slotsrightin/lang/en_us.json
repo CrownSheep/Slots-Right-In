@@ -1,0 +1,19 @@
+{
+  "commands.slot.entity.clear.success.single" : "Successfully cleared slot",
+  "commands.slot.entity.clear.success.multiple" : "Successfully cleared slots",
+  "commands.slot.entity.clear.failure.single" : "Slot is already empty",
+  "commands.slot.entity.get" : "The item in the slot is: ",
+  "commands.slot.entity.compare.match" : "Slots are matching",
+  "commands.slot.entity.compare.not_match" : "Slots are not matching",
+  "commands.item.entity.copy" : "Successfully copied slot",
+  "commands.slot.entity.swap" : "Successfully swapped slot",
+  "commands.slot.entity.set.count" : "Successfully changed count",
+  "commands.slot.entity.set.random" : "The item that has been selected is: ",
+  "commands.slot.entity.set.item" : "Successfully changed item",
+  "commands.slot.entity.math.add" : "Successfully increased item by: ",
+  "commands.slot.entity.math.subtract" : "Successfully subtracted item by: ",
+  "commands.slot.entity.math.divide" : "Successfully divided item by: ",
+  "commands.slot.entity.math.multiply" : "Successfully multiplied item by: ",
+  "commands.slot.entity.math.random" : "Randomized amount to: ",
+  "commands.slot.entity.rename" : "Successfully changed the name of the item to: "
+}
